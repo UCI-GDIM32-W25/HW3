@@ -1,9 +1,6 @@
-# HW3
-## HW3 Break-Down
-Put your HW3 break-down activity notes here.
-
+# MG3
 ## Devlog
-Prompt: Write about how the concept of inheritance and the finite state machine design pattern are working together in this project, citing examples from the code. 
+Write ya Devlog here.
 
 ## Open-Source Assets
 If you added any other assets, list them here!
